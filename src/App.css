@@ -1,0 +1,112 @@
+
+.cls1{
+  height: 20%;
+  overflow: hidden;
+  display: flex;
+  background-color: rgb(126, 126, 126);
+  justify-content: center;
+  justify-items: center;
+  align-items: center;
+}
+
+a{
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+  transition: ease-in-out;
+}
+
+a:hover {
+    color: #3c4199;
+    transition: 0.8s;
+}
+
+body{
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  justify-items: center;
+  align-items: center
+}
+
+.botonP{
+  background-color: rgba(0, 0, 0, 0.253);
+  border: 2px solid navy;
+  
+}
+
+.botonP:hover{
+  background-color: rgba(7, 7, 82, 0.5);
+  transition: 0.5s ease-in-out;
+}
+
+ul{
+  display: flex;
+  justify-content: center;
+  justify-items: center;
+  align-items: center;
+}
+
+li{
+  margin-right: 40px;
+}
+.relleno{
+  display: flex;
+  justify-content: center;
+  justify-items: center;
+  align-items: center;
+  width: 100vw;
+  margin-top: 5px;
+}
+.getAlumnos{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  justify-items: center;
+  align-items: center;
+  width: 550px;
+  height: 600px;
+  background-color: #6e6f738d;
+
+
+}
+.postAlumnos{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  justify-items: center;
+  align-items: center;
+  width: 550px;
+  height: 600px;
+  background-color: #6e6f738d;
+
+
+}
+.DatosAlumnos{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  justify-items: center;
+  align-items: center;
+  width: 50%;
+  border: 2px solid white;
+  background-color: rgba(9, 10, 72, 0.226);
+  border-radius: 30px;
+}
+#ALUMNO{
+  width: 250px;
+  height: 120px;
+  border: 2px solid white;
+  background-color: rgba(9, 10, 72, 0.226);
+  resize: none;
+}
+.cls2{
+  overflow: hidden;
+  display: flex;
+  background-color: rgb(126, 126, 126);
+  justify-content: center;
+  justify-items: center;
+  align-items: center;
+}
