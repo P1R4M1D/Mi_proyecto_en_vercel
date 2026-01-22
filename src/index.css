@@ -32,6 +32,7 @@ body {
   align-items: center;
   justify-items: center;
   overflow-x: hidden;
+  background-color: rgba(199, 59, 199, 0.495);
 }
 
 h1 {

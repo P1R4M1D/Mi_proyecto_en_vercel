@@ -103,5 +103,4 @@ function BodyComponent(props) {
         </div>
     );
 }
-
 export default BodyComponent;
